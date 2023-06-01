@@ -1,0 +1,32 @@
+ Name: The Witcher 3, genre: Action, year:2016, rating: 9.7
+ Name: The Last of US, genre: Action, year:2013, rating: 9.7
+ Name: Mass Effect, genre: Action, year:2021, rating: 9.7
+ Name: God of War, genre: Action, year:2018, rating: 9.6
+ Name: Persona 5, genre: Action, year:2019, rating: 9.6
+ Name: The Legend of Zelda, genre: Action, year:1998, rating: 9.6
+ Name: Metal Gear Solid, genre: Action, year:1998, rating: 9.6
+ Name: Uncharted 4, genre: Action, year:2016, rating: 9.5
+ Name: Grand Theft Auto V, genre: Action, year:2013, rating: 9.5
+ Name: Mass Effect 2, genre: Adventure, year:2010, rating: 9.5
+ Name: Half-Life, genre: Adventure, year:2020, rating: 9.5
+ Name: Metal Gear Solid 3, genre: Adventure, year:2005, rating: 9.5
+ Name: Star Wars, genre: Adventure, year:2003, rating: 9.5
+ Name: Chrono Trigger, genre: Adventure, year:1995, rating: 9.5
+ Name: Final Fantasy VII, genre: Adventure, year:1997, rating: 9.5
+ Name: Bloodborne, genre: Adventure, year:2015, rating: 9.4
+ Name: The Legend of Zelda, genre: Fantasy, year:2017, rating: 9.4
+ Name: The Elder Scrolls V, genre: Fantasy, year:2011, rating: 9.4
+ Name: Portal 2, genre: Comedy, year:2011, rating: 9.4
+ Name: Batman: Arkham City, genre: Crime, year:2011, rating: 9.4
+ Name: Read Dead Redemption, genre: Crime, year:2010, rating: 9.4
+ Name: Uncharted 2, genre: Fantasy, year:2009, rating: 9.4
+ Name: Metal Gear Solid 4, genre: Drama, year:2008, rating: 9.4
+ Name: Grand Theft Auto: San Andreas, genre: Action, year:2004, rating: 9.4
+ Name: Half-Life 2, genre: Action, year:2004, rating: 9.4
+ Name: Silent Hill 2, genre: Drama, year:2001, rating: 9.4
+ Name: Planescape: Torment, genre: Adventure, year:1999, rating: 9.4
+ Name: Ghost of Tsushima, genre: Adventure, year:2020, rating: 9.3
+ Name: Batman: Return to Arkham, genre: Action, year:2016, rating: 9.3
+ Name: Persona 5, genre: Action, year:2016, rating: 9.3
+ Name: P.T., genre: Horror, year:2014, rating: 9.3
+ Name: Mario, genre: Indie, year:2001, rating: 6.5
